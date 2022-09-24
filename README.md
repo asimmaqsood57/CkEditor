@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+## ckeditor notes
+
+https://noteyard.piyushdev.xyz/blogpost/62347038802b0390bc078843
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
